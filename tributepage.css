@@ -1,0 +1,52 @@
+.first{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.mainpage{
+  background-color: rgb(236, 214, 247);
+  width: 70vw;
+  border: 2px solid black;
+  box-shadow: 20px 20px 50px gray;
+}
+.mainpage h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(2, 2, 78);
+}
+.mainpage h3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-style: italic;
+    color: rgb(24, 11, 96);
+}
+.image{
+    background-image: url("Mahatma_Gandhi_photo.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    margin-left: 340px;
+    border: 1px solid black;
+}
+.paragraph h4{
+    color: rgba(7, 7, 68, 0.833);
+    margin: 10px;
+    font-style:normal;
+}
+.paragraph i{
+    color: royalblue;
+}
+.second p{
+   font-size: larger;
+   font-weight: 1000; 
+}
+.second h4{
+    margin: 10px;
+}
+.second n{
+    color: royalblue;
+}
